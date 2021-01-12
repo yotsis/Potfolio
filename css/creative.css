@@ -11793,6 +11793,12 @@
     border-width: 0.2rem;
     border-color: #f4623a;
   }
+
+  hr.divider2 {
+    max-width: 3.25rem;
+    border-width: 0.2rem;
+    border-color: #b8b8b8;
+  }
   
   hr.light {
     border-color: #fff;
